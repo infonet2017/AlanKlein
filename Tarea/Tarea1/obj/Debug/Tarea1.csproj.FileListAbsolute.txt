@@ -1,0 +1,7 @@
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

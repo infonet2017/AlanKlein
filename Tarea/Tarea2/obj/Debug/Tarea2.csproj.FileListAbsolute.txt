@@ -1,0 +1,7 @@
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\ConsoleApp1\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
