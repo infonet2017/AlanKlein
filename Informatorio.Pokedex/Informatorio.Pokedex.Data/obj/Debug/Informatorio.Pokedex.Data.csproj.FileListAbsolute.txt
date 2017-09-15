@@ -1,0 +1,6 @@
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Data\bin\Debug\Informatorio.Pokedex.Data.dll
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Data\bin\Debug\Informatorio.Pokedex.Data.pdb
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Data\obj\Debug\Informatorio.Pokedex.Data.csprojResolveAssemblyReference.cache
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Data\obj\Debug\Informatorio.Pokedex.Data.csproj.CoreCompileInputs.cache
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Data\obj\Debug\Informatorio.Pokedex.Data.dll
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Data\obj\Debug\Informatorio.Pokedex.Data.pdb

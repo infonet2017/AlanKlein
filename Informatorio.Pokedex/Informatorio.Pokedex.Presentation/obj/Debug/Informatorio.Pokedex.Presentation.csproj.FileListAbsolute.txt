@@ -1,0 +1,11 @@
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\obj\Debug\Informatorio.Pokedex.Presentation.csprojResolveAssemblyReference.cache
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\obj\Debug\Informatorio.Pokedex.Presentation.csproj.CoreCompileInputs.cache
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\bin\Debug\Informatorio.Pokedex.Presentation.exe.config
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\bin\Debug\Informatorio.Pokedex.Presentation.exe
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\bin\Debug\Informatorio.Pokedex.Presentation.pdb
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\bin\Debug\Informatorio.pokedex.Business.dll
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\bin\Debug\Informatorio.Pokedex.Data.dll
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\bin\Debug\Informatorio.pokedex.Business.pdb
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\bin\Debug\Informatorio.Pokedex.Data.pdb
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\obj\Debug\Informatorio.Pokedex.Presentation.exe
+C:\examples\Informatorio.Pokedex\Informatorio.Pokedex.Presentation\obj\Debug\Informatorio.Pokedex.Presentation.pdb
