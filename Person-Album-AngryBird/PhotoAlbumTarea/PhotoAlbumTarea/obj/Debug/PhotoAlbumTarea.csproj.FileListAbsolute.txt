@@ -1,0 +1,7 @@
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\PhotoAlbumTarea\PhotoAlbumTarea\bin\Debug\PhotoAlbumTarea.exe.config
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\PhotoAlbumTarea\PhotoAlbumTarea\bin\Debug\PhotoAlbumTarea.exe
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\PhotoAlbumTarea\PhotoAlbumTarea\bin\Debug\PhotoAlbumTarea.pdb
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\PhotoAlbumTarea\PhotoAlbumTarea\obj\Debug\PhotoAlbumTarea.csprojResolveAssemblyReference.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\PhotoAlbumTarea\PhotoAlbumTarea\obj\Debug\PhotoAlbumTarea.csproj.CoreCompileInputs.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\PhotoAlbumTarea\PhotoAlbumTarea\obj\Debug\PhotoAlbumTarea.exe
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\source\repos\PhotoAlbumTarea\PhotoAlbumTarea\obj\Debug\PhotoAlbumTarea.pdb
