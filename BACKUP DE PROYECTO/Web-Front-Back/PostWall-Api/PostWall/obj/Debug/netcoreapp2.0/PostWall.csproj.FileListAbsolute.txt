@@ -1,0 +1,22 @@
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.deps.json
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.runtimeconfig.json
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.runtimeconfig.dev.json
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.dll
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.pdb
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.csprojResolveAssemblyReference.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.csproj.CoreCompileInputs.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.AssemblyInfoInputs.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.AssemblyInfo.cs
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.dll
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\InformatorioWeb\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.pdb
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.deps.json
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.runtimeconfig.json
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.runtimeconfig.dev.json
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.dll
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\bin\Debug\netcoreapp2.0\PostWall.pdb
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.csprojResolveAssemblyReference.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.csproj.CoreCompileInputs.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.AssemblyInfoInputs.cache
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.AssemblyInfo.cs
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.dll
+C:\Users\Alan Klein.DESKTOP-9B9F0UV\Documents\Informatorio\BACKUP DE PROYECTO\Web-Front-Back\PostWall-Api\PostWall\obj\Debug\netcoreapp2.0\PostWall.pdb
