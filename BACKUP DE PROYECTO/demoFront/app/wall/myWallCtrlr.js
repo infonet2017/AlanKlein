@@ -5,13 +5,13 @@ myApp.controller('MyWallCtrlr', function ($scope, $http, WallService) {
 
 
     WallService.getPosts()
-        .then(function (response) {
-            $scope.posts = response.data;
+    .then(function (response) {
+        $scope.posts = response.data;
 
-        })
-        .catch(function (err) {
-            console.log("errorcin");
-        });
+    })
+    .catch(function (err) {
+        console.log("errorcin");
+    });
 
     $scope.currentPost = {
         title: "",
@@ -29,11 +29,22 @@ myApp.controller('MyWallCtrlr', function ($scope, $http, WallService) {
         .then(function(response){
             
             $scope.posts.push(newPost);
+            
+            // WallService.getPosts()               // haciendo esto, busca y muestr de nuevo
+            // .then(function (response) {          no es efectivo pero para la demo remil anda, y nos aseguramos 
+            //     $scope.posts = response.data;    de que ande bien jojo. 
+            // })
+            // .catch(function (err) {
+            //     console.log("errorcin");
+            // }); 
+
+
         })
         .catch(function(err){
             debugger
             console.log(err);
         })
+        $scope.currentPost = "";
 
     }
 
@@ -48,12 +59,21 @@ myApp.controller('MyWallCtrlr', function ($scope, $http, WallService) {
     //     saveInLocalStorage()
     // }
 
-    $scope.deleteFeedLocal = function (index) {
-        var toDeletePost = $scope.posts[index];
-        toDeletePost.index = index;
-        WallService.deletePost(toDeletePost)
+    $scope.deletePostID = function (post, index) {
+        WallService.deletePost(post)
         .then(function(response) {
-            $scope.posts.splice(index + 1);
+            //$scope.posts.splice(post.id);
+            
+            $scope.posts.splice(index,1)
+
+            // WallService.getPosts()               // haciendo esto, busca y muestr de nuevo
+            // .then(function (response) {          no es efectivo pero para la demo remil anda, y nos aseguramos 
+            //     $scope.posts = response.data;    de que ande bien jojo. 
+            // })
+            // .catch(function (err) {
+            //     console.log("errorcin");
+            // }); 
+            
         })
         .catch(function (err) {
             debugger
@@ -63,18 +83,18 @@ myApp.controller('MyWallCtrlr', function ($scope, $http, WallService) {
         
     }
 
-    $scope.turnToEditFeedLocal = function (index) {
-        var toEditPost = $scope.posts[index];
-        toEditPost.index = index;
+    $scope.turnToEditFeedLocal = function (index) { //esta funcion hizo alex, es la que muestra la pantallita
+        var toEditPost = $scope.posts[index];       //de edit, creo que aca y en el front esta el tema de que 
+        toEditPost.index = index;                   //aparece los cambios directamente atras
         $scope.editPost = toEditPost;
         $('.modal').modal('show');
-        debugger
+        
         //saveInLocalStorage()
     }
 
 
     $scope.editFeedLocal = function () {
-        debugger
+        
         var index = $scope.editPost.index
         WallService.updatePost($scope.editPost)
         .then(function(response){
@@ -85,13 +105,13 @@ myApp.controller('MyWallCtrlr', function ($scope, $http, WallService) {
                 Teacher: $scope.editPost.Teacher,
                 DateTime: new Date().toString()
             }
-            WallService.getPosts()
-            .then(function (response) {
-                $scope.posts = response.data;
-            })
-            .catch(function (err) {
-                console.log("errorcin");
-            });   
+             WallService.getPosts()               // haciendo esto, busca y muestr de nuevo
+             .then(function (response) {          //no es efectivo pero para la demo remil anda, y nos aseguramos 
+                 $scope.posts = response.data;    //de que ande bien jojo. 
+             })
+             .catch(function (err) {
+                 console.log("errorcin");
+             });   
 
             $('.modal').modal('hide');
 
@@ -103,13 +123,6 @@ myApp.controller('MyWallCtrlr', function ($scope, $http, WallService) {
         
         
     }
-
-    // function saveInLocalStorage() {
-    //     localStorage.setItem('posts', JSON.stringify($scope.posts));
-    // }
-
-
-
 
 
 

@@ -2,10 +2,7 @@ angular.module("myApp")
     .factory('WallService', function ($http) {
         var apiUrl = "http://localhost:59294/"
         return {
-
-
             getPosts: function () {
-
                 return $http.get(apiUrl + 'api/posts');
 
             },
@@ -14,12 +11,12 @@ angular.module("myApp")
             },
 
             updatePost: function (post) {
-                var indexado = (post.index) + (1);
+                var indexado = post.id //(post.index) + (1);
                return $http.put(apiUrl + 'api/posts' +"/" + indexado, post);
             },
 
             deletePost: function (post) {
-                var indexado = (post.index) + (1);
+                var indexado =  post.id// (post.index) + (1);
                return $http.delete(apiUrl + 'api/posts' +"/" + indexado);
             }
         }
